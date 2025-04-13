@@ -1,10 +1,10 @@
+[Adblock Plus 2.0]
 ! Title: Meltblotica
 ! Description: Personal blocklists
 ! Homepage: https://github.com/Meltartica/Blocklists
 ! Version: 13 April 2025
 ! Expires: 12 days
 
-! [APKMirror.com]
 apkmirror.com###bottom-slider
 apkmirror.com##.ains-apkm_app_page_top.ains-has-label.ains-32.ains
 apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_descriptiontab.ains-has-label.ains-35.ains
