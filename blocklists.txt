@@ -2,8 +2,8 @@
 ! Title: Meltblotica
 ! Description: Personal blocklists
 ! Homepage: https://github.com/Meltartica/Blocklists
-! Version: 13 April 2025
-! Expires: 12 days
+! Version: 28 August 2025
+! Expires: 30 days
 
 www.apkmirror.com###bottom-slider
 www.apkmirror.com##.ains-apkm_app_page_top.ains-has-label.ains-32.ains
@@ -11,3 +11,8 @@ www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_descriptionta
 www.apkmirror.com##.ains-apkm_app_page_bottom.ains-has-label.ains-33.ains
 www.apkmirror.com##.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
 www.apkmirror.com##.block-widget.widget
+
+! https://www.reddit.com/r/dlsu/comments/1n27aa3
+||omega1.dlsu.edu.ph^$script
+||omega1.dlsu.edu.ph^$image
+https://omega1.dlsu.edu.ph/_includes/_scripts/global.js
